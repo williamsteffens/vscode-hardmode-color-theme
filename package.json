@@ -1,8 +1,14 @@
 {
     "name": "hardmode",
     "displayName": "Hardmode",
+    "publisher": "williamsteffens",
     "description": "",
     "version": "0.0.1",
+    "keywords": [
+        "theme",
+        "dark theme",
+        "hardmode"
+    ],
     "engines": {
         "vscode": "^1.68.0"
     },
