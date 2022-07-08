@@ -1,0 +1,26 @@
+{
+    "name": "hardmode",
+    "displayName": "Hardmode",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Hardmode (VOID)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/hardmode-void-color-theme.json"
+            },
+            {
+                "label": "Hardmode (FLASHBANG)",
+                "uiTheme": "vs",
+                "path": "./themes/hardmode-flashbang-color-theme.json"
+            }
+        ]
+    }
+}
